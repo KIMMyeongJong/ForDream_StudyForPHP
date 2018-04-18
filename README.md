@@ -1,7 +1,7 @@
  プロジェクトネーム
  =============
 
-Study For JavaScript
+Study For PHP
 
  開発人員
  =============
